@@ -1,0 +1,48 @@
+  .image1 {
+  float: left;
+  width:33.33%;
+  Height: 100px;
+  background-position: center;
+  background-size: cover;
+  background-image:url(https://rotoruaducktours.co.nz/wp-content/uploads/2018/12/Humpridge-Jet-BBQ_optimized_optimized.jpg);
+  
+}
+
+.image2 {
+  float: left;
+  width: 33.33%;
+  height:100px;
+  background-position: center;
+  background-size: cover;
+  background-image:url(https://cdn.polynesianpride.co/wp-content/uploads/2024/09/traditional-NewZealand-clothing.jpg);
+}
+
+.image3 {
+  float: left;
+  width: 33.33%;
+  height:100px;
+  background-position: center;
+  background-size: cover;
+  background-image:url(https://cdn.polynesianpride.co/wp-content/uploads/2024/09/What-Is-the-Language-Spoken-in-New-Zealand.jpg)
+}
+
+  .image-overlay{
+  width: 100%;
+  height: 100px;
+  background-color: #cf207e87;
+  display: flex;
+  justify-content: center;
+  color: white;
+  letter-spacing: 10px;
+  font-size:10px;
+  
+}
+.image-overlay h1 {
+  color: #1B065E;
+}
+
+  .image-overlay:hover{
+  background-color: transparent;
+}
+
+ 
