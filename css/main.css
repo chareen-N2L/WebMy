@@ -64,6 +64,9 @@ footer {
     /* set the footer element height to 3 times larger than its current font size 8/  
         Border-top: solid black 1px; /* Have to put the unite , e.g px or %, if not zero */
 }
+footer p {
+    color: white;
+}
 
 h1,h2 {
     color: #288ae6;
